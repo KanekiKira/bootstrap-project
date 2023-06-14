@@ -1,0 +1,14 @@
+1
+card
+2 
+acardion
+3
+carusel
+4
+modal
+5
+footer
+
+col-md - Ширина
+lead- Text size
+&copy - Значок коипании
